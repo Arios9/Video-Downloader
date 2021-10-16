@@ -17,7 +17,9 @@ options = webdriver.ChromeOptions()
 options.add_argument('--headless')
 driver = webdriver.Chrome(webdriverPath, options=options)
 driver.get(searchResultsUrl)
-soup = BeautifulSoup(driver.page_source, 'html.parser')
+html = driver.page_source
+driver.quit()
+soup = BeautifulSoup(html, 'html.parser')
 link = soup.find(href=re.compile(re.escape("/watch?v=")), id="thumbnail")
 youtubeVideoUrl = youtubeUrl + link['href']
 try:
