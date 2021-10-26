@@ -1,0 +1,150 @@
+1635254845303	geckodriver	INFO	Listening on 127.0.0.1:49511
+1635254845811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "36737" "-no-remote" "-profile" "/tmp/rust_mozprofileuhmEUu"
+*** You are running in headless mode.
+1635254846180	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuhmEUu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36737/devtools/browser/ff3199de-bcf2-486f-95d6-1ce8f514f715
+1635254847234	Marionette	INFO	Listening on port 34333
+1635254847336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635254849936	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1635254850862	Marionette	INFO	Stopped listening on port 34333
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileuhmEUu/protections.sqlite
+1635254960311	geckodriver	INFO	Listening on 127.0.0.1:54209
+1635254960318	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "51123" "-no-remote" "-profile" "/tmp/rust_mozprofileCGRVTT"
+*** You are running in headless mode.
+1635254960700	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCGRVTT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51123/devtools/browser/52592c9c-3479-4a2f-8ad4-9e9c090171b7
+1635254961685	Marionette	INFO	Listening on port 43999
+1635254961739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635254964490	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1635254965441	Marionette	INFO	Stopped listening on port 43999
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileCGRVTT/protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635255187222	geckodriver	INFO	Listening on 127.0.0.1:32877
+1635255187227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "49979" "-no-remote" "-profile" "/tmp/rust_mozprofilepY6bYm"
+*** You are running in headless mode.
+1635255187607	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepY6bYm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49979/devtools/browser/dc8e9d83-e524-410d-96e8-0c5a8abcbe56
+1635255188650	Marionette	INFO	Listening on port 39515
+1635255189693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635255192383	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1635255193301	Marionette	INFO	Stopped listening on port 39515
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilepY6bYm/protections.sqlite
+1635255237269	geckodriver	INFO	Listening on 127.0.0.1:46669
+1635255237274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "36737" "-no-remote" "-profile" "/tmp/rust_mozprofileR2qqtT"
+*** You are running in headless mode.
+1635255237644	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileR2qqtT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36737/devtools/browser/844283a7-a831-4fe8-b923-b7aef193c41f
+1635255238675	Marionette	INFO	Listening on port 36583
+1635255238709	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635255241464	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1635255242277	Marionette	INFO	Stopped listening on port 36583
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635255402514	geckodriver	INFO	Listening on 127.0.0.1:42197
+1635255402520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "57557" "-no-remote" "-profile" "/tmp/rust_mozprofilegE0cKw"
+*** You are running in headless mode.
+1635255402878	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegE0cKw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57557/devtools/browser/98267e3f-ddc8-4f81-b4fb-f5fca48a7c35
+1635255403913	Marionette	INFO	Listening on port 43109
+1635255403946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635255406743	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1635255407571	Marionette	INFO	Stopped listening on port 43109
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilegE0cKw/protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635255464498	geckodriver	INFO	Listening on 127.0.0.1:36837
+1635255464505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "45767" "-no-remote" "-profile" "/tmp/rust_mozprofileIUORL0"
+*** You are running in headless mode.
+1635255464873	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIUORL0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45767/devtools/browser/5e8f7b90-77ae-4a77-a879-ec35ea0031a3
+1635255465833	Marionette	INFO	Listening on port 41995
+1635255465927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635255468725	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1635255469589	Marionette	INFO	Stopped listening on port 41995
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileIUORL0/protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635255550210	geckodriver	INFO	Listening on 127.0.0.1:43685
+1635255550215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "39569" "-no-remote" "-profile" "/tmp/rust_mozprofileFiqXCU"
+*** You are running in headless mode.
+1635255550587	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFiqXCU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39569/devtools/browser/9707089e-38d7-4acc-ab6d-e03a964790ea
+1635255551631	Marionette	INFO	Listening on port 41819
+1635255551739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635255554457	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1635255555560	Marionette	INFO	Stopped listening on port 41819
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileFiqXCU/protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635255705121	geckodriver	INFO	Listening on 127.0.0.1:50149
+1635255705132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "44287" "-no-remote" "-profile" "/tmp/rust_mozprofile3zlXx8"
+*** You are running in headless mode.
+1635255705503	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3zlXx8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44287/devtools/browser/da226a1c-81aa-4b54-92f6-d0853efaabf9
+1635255706463	Marionette	INFO	Listening on port 43839
+1635255706559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635255709472	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1635255710541	Marionette	INFO	Stopped listening on port 43839
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofile3zlXx8/protections.sqlite
