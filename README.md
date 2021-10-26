@@ -1,3 +1,3 @@
 # Video-Downloader
 
-Download a video by typing keywords
+Download a video from Youtube by typing keywords
